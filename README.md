@@ -1,1 +1,2 @@
 # Music-Player
+This Python project is a simple yet functional music player built using the Tkinter library for the graphical user interface. The music player allows users to play, pause, stop, and resume songs  within a user-friendly interface. The project showcases fundamental concepts of GUI programming in Python and provides a great starting point for anyone interested in learning about GUI development or music player functionality in Python.
